@@ -15,7 +15,7 @@ npm
 React 
 
 ## Deployment
-In terminal mkdir and cd to an empty folder\n
+In terminal mkdir and cd to an empty folder<br/>
 Then type $npm install express \n
 (This should generate node_modules file)
 Clone the rest of repository to that folder
