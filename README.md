@@ -13,3 +13,16 @@ But that's not all, all players and hosts can refer back to their sessions and s
 
 npm
 React 
+
+## Deployment
+In terminal mkdir and cd to an empty folder
+Then type $npm install express 
+(This should generate node_modules file)
+Clone the rest of repository to that folder
+
+To run it,
+In terminal type $node index.js
+Inside the browser go to http://localhost:3000/
+
+To end it,
+In terminal press control c
