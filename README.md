@@ -16,13 +16,13 @@ React
 
 ## Deployment
 In terminal mkdir and cd to an empty folder<br/>
-Then type $npm install express \n
-(This should generate node_modules file)
-Clone the rest of repository to that folder
+Then type $npm install express <br/>
+(This should generate node_modules file) <br/>
+Clone the rest of repository to that folder <br/>
 
-To run it,
-In terminal type $node index.js
-Inside the browser go to http://localhost:3000/
+To run it, <br/>
+In terminal type $node index.js <br/>
+Inside the browser go to http://localhost:3000/ <br/>
 
-To end it,
-In terminal press control c
+To end it, <br/>
+In terminal press control c <br/>
